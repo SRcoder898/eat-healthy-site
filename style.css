@@ -5,6 +5,7 @@ body{
 .top-area{
     display: flex;
     width: 100%;
+    margin-bottom: 100px;
 }
 .first-heading{
     margin-left: 30px;     
@@ -22,7 +23,7 @@ body{
     color: gray;
    }
 .first-heading button{
-    padding: 20px 40px;
+    padding: 10px 20px;
     font-size: 20px;
     background-image: linear-gradient(#FD5332, #FB9149);
     border: none;
@@ -31,9 +32,57 @@ body{
     margin-top: -50px;
 }
 .hero-image img{
-    width: 592px;
+    width: 589px;
     height: 527px;
     margin-right: 30px;
    
 }
+
+/*ABOUT AREA START*/
+
+.about-area{
+    background-image: url("7.png");
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.about-area-image img{
+    width: 303px;
+    height: 365px;
+    margin-left: 134px;
+    margin-top: 83px;
+}
+
+.about-topic{
+    margin-left: 200px;
+    margin-top: 100px;
+    color: gray;
+    padding-right: 163px;
+}
+
+.about-topic h4{
+    font-size: 30px;
+    font-weight: 700;
+}
+.about-topic p{
+    margin-top: -30px;
+    line-height: 30px;
+}
+.about-topic button{
+    padding: 10px 20px;
+    font-size: 20px;
+    background-image: linear-gradient(#FD5332, #FB9149);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+/*ABOUT AREA END*/
 
