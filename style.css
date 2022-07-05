@@ -78,11 +78,68 @@ body{
     margin-top: 50px;
 }
 
-
-
-
-
-
-
 /*ABOUT AREA END*/
 
+/*RECEPI AREA START*/
+
+.main-body-area{
+    margin-top: 80px;
+}
+.top-topic{
+  text-align: center;
+}
+.top-topic h4{
+    color: gray;
+    font-weight: bold;
+    font-size: 30px;
+}
+.top-topic p{
+    padding-left: 300px;
+    padding-right: 300px;    
+    color: gray;
+    line-height: 30px;
+}
+
+.main-topic-area{
+    display: flex;
+    margin: 50px;
+}
+
+.main-topic-first{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 30px;
+    width: 50%;
+    margin-right: 93px;
+}
+
+.main-topic-second{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 30px;  
+    width: 50%;
+    margin-right: 93px;
+}
+
+.main-topic-first img{
+    width: 474px;
+    height: 300px;
+}
+
+.main-topic-second img{
+    width: 474px;
+    height: 300px;
+}
+
+.main-topic-first p{   
+    color: gray;
+    line-height: 30px;
+}
+.main-topic-second p{   
+    color: gray;
+    line-height: 30px;
+}
+
+
+
+/*RECEPI AREA END*/
