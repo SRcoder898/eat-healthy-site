@@ -143,3 +143,31 @@ body{
 
 
 /*RECEPI AREA END*/
+
+/*FOLLOWER AREA START*/
+.follower-area{
+    margin-left: 55px;
+    margin-right: 56px;
+    display: flex;
+    margin-bottom: 200px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+}
+
+.follower-heading h2{
+    
+    padding-left: 36px;
+    text-align: center;
+    margin-left: 100px;
+    color:black;
+    font-weight: bold;
+}
+.follower-heading p{
+    
+    padding-left: 36px;
+    text-align: center;
+    margin-left: 100px;
+    color:gray;
+}
+
+/*FOLLOWER AREA START*/
